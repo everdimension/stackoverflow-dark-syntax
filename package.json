@@ -1,0 +1,17 @@
+{
+  "name": "stackoverflow-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dark syntax theme based on stackoverflow syntax highlighter",
+  "keywords": [
+    "stackoverflow",
+    "dark",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/stackoverflow-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
